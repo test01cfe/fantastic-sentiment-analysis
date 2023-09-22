@@ -1,0 +1,25 @@
+{
+  "name": "cfe.ai.copilot.sentanal",
+  "version": "1.0.0",
+  "description": "Fantastic Sentiment Analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/test01cfe/fantastic-sentiment-analysis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/test01cfe/fantastic-sentiment-analysis/issues"
+  },
+  "homepage": "https://github.com/test01cfe/fantastic-sentiment-analysis#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
